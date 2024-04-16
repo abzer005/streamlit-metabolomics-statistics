@@ -1,7 +1,7 @@
 streamlit
 pandas
-numpy == 1.24
-scipy == 1.10
+numpy==1.23.2
+scipy==1.9.3
 plotly
 pingouin
 kaleido
