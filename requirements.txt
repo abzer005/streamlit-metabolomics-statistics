@@ -7,4 +7,3 @@ kaleido
 openpyxl
 scikit-posthocs
 scikit-bio
-git+https://github.com/Wang-Bioinformatics-Lab/GNPSDataPackage.git
